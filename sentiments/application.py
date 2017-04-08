@@ -1,3 +1,7 @@
+'''
+File created entirely by the staff at Harvard's CS50
+'''
+
 from flask import Flask, redirect, render_template, request, url_for
 
 import helpers

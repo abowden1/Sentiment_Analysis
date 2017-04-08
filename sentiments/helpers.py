@@ -1,3 +1,6 @@
+'''
+File created entirely by the staff at Harvard's CS50
+'''
 import html
 import os
 import plotly
